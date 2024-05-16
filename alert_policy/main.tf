@@ -1,5 +1,5 @@
 resource "newrelic_alert_policy" "my-policy" {
-  name = "Divpreet-alert-policy"
+  name = "divpreet-alert-policy"
 }
 
 
